@@ -12,6 +12,8 @@
     },
     "plugins": ["prettier"],
     "rules": {
-        "prettier/prettier": "error"
+        "prettier/prettier": "error",
+        "indent": "off",
+        "max-len": "off"
     }
 }
